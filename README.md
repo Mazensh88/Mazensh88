@@ -1,8 +1,10 @@
-<iframe src="https://drive.google.com/file/d/1sepJBPKS4Nfhi-3ine5pW1PfhMW58QUI/preview" width="640" height="480" allow="autoplay"></iframe>
 
-### Hi there 👋
+![Untitled-2](https://user-images.githubusercontent.com/63317015/188485024-192c4501-3488-44ac-b8e9-3c28a82b98e9.gif)
+
+
 
 <!--
+### Hi there 👋
 **Mazensh88/Mazensh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
