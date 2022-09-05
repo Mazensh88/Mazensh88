@@ -1,6 +1,12 @@
 
 ![Untitled-2](https://user-images.githubusercontent.com/63317015/188485024-192c4501-3488-44ac-b8e9-3c28a82b98e9.gif)
 
+- 🌱 I’m currently learning .NET & ASP.NET
+- 🔭 Languages: Java, MySQL, JS, CSS, HTML
+- ✔️ I like Front-End and web design.
+- 📫 How to reach me: Mazen.Maghazy@mail.citytech.cuny.edu
+- ⚡ Fun fact: I'm an artist developer, I like to create ⚙️
+- 🏫 Associate degree in Computer Information System, working on my bachelors.  
 
 
 <!--
