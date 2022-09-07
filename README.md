@@ -1,5 +1,4 @@
-![Untitled-3](https://user-images.githubusercontent.com/63317015/188502201-57db9455-771e-425f-a26d-d39348f7e211.gif)
-
+![final](https://user-images.githubusercontent.com/63317015/188764449-a95a1778-c647-41c3-b807-9e00fe84949d.gif)
 
 - 🌱 I’m currently learning .NET & ASP.NET
 - 🔭 Languages: Java, MySQL, JS, CSS, HTML
