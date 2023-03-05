@@ -1,7 +1,7 @@
 ![final](https://user-images.githubusercontent.com/63317015/188764449-a95a1778-c647-41c3-b807-9e00fe84949d.gif)
 
 - 🌱 I’m currently learning .NET & ASP.NET
-- 🔭 Stacks: Java, MySQL, JS, CSS, HTML
+- 🔭 Stacks: Java, MySQL, JS, CSS, Bootstrap, HTML
 - ✔️ I like Front-End and web design.
 - 📫 How to reach me: Mazen.Maghazy@mail.citytech.cuny.edu
 - ⚡ Fun fact: I'm an artist developer, I like to create ⚙️
