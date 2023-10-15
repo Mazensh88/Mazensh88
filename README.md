@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .NET & ASP.NET
 - 🔭 Stacks: Java, MySQL, JS, CSS, Bootstrap, HTML
 - ✔️ Full Stack Developer.
-- 📫 How to reach me: Mazen.Maghazy@mail.citytech.cuny.edu
+- 📫 How to reach me: Contact@MazenHamam.com
 - ⚡ Fun fact: I'm an artist developer, I like to create ⚙️
 - 🏫 Associate degree in Computer Information System, working on my bachelors.  
 
